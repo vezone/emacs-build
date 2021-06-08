@@ -1,0 +1,6 @@
+cd ../..
+ls
+cd Scripts/
+ls
+./build_debug.sh
+./build_debug.sh

@@ -1,0 +1,700 @@
+((("vector" .
+   [1 0 0 0 0 0])
+  ("v4" .
+   [1 0])
+  ("m4" .
+   [2 0])
+  ("yaml-mode" .
+   [1 0 0 0 0 0 0 0 0])
+  ("newCount" .
+   [2 0 0 0 0 0 0 0])
+  ("bufferSize" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("keyCheckValue" .
+   [2 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("check" .
+   [1 0 0 0 0])
+  ("bucketNumber" .
+   [0 0 0 0 0 2 0 0 0 0 0 0])
+  ("ukey" .
+   [1 0 0 0])
+  ("v2" .
+   [1 0])
+  ("prevPrime" .
+   [1 0 0 0 1 1 1 0 0])
+  ("table_header" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("Index" .
+   [2 0 0 0 0])
+  ("v1" .
+   [1 0])
+  ("val0" .
+   [2 0 0 0])
+  ("String_IsEquals" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("isearch-forward-symbol-at-point" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("isearch" .
+   [0 0 0 0 0 0 1])
+  ("insert" .
+   [1 0 0 0 0 0])
+  ("insert-tab" .
+   [0 0 0 0 0 0 0 1 0 0])
+  ("new" .
+   [3 0 0])
+  ("queryResult" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("elem" .
+   [1 0 0 0])
+  ("dest" .
+   [3 0 0 0])
+  ("ComponentsSize" .
+   [4 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Int_Value" .
+   [3 0 0 0 0 0 0 0 0])
+  ("vassert" .
+   [5 0 0 1 0 0 1])
+  ("ComponentID" .
+   [3 0 0 0 1 0 0 0 0 0 0])
+  ("playerId" .
+   [2 0 0 0 0 0 0 0])
+  ("BAge" .
+   [2 0 0 0])
+  ("u" .
+   [1])
+  ("hmget" .
+   [4 0 0 0 0])
+  ("is" .
+   [1 0])
+  ("hmgeti" .
+   [2 0 0 0 0 0])
+  ("ArchetypeStorage" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("entityId" .
+   [5 0 0 0 0 0 0 1])
+  ("newCapacity" .
+   [2 0 0 0 0 1 0 1 0 0 0])
+  ("array" .
+   [4 0 0 0 0])
+  ("otherData" .
+   [1 0 0 0 0 0 0 0 0])
+  ("data5" .
+   [1 0 0 0 0])
+  ("C" .
+   [5])
+  ("list_find_data" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Buffer" .
+   [6 0 0 0 0 0])
+  ("Count" .
+   [8 0 0 0 0])
+  ("header" .
+   [5 0 0 0 0 0])
+  ("newSize" .
+   [2 0 0 0 0 0 0])
+  ("h" .
+   [3])
+  ("memory_allocate" .
+   [3 0 0 0 0 1 0 0 0 0 0 0 0 0 2])
+  ("newHeader" .
+   [5 0 0 0 0 0 0 0 1])
+  ("g_BlockSize" .
+   [0 0 0 0 1 0 0 0 0 0 0])
+  ("prevData" .
+   [1 0 0 0 0 0 0 0])
+  ("MAGNETA" .
+   [1 0 0 0 0 0 0])
+  ("YELLOW" .
+   [1 0 0 0 0 0])
+  ("RED" .
+   [1 0 0])
+  ("index" .
+   [10 0 0 0 0])
+  ("prev" .
+   [11 0 0 0])
+  ("selectedFile" .
+   [0 0 0 0 0 1 0 0 1 0 0 0])
+  ("isFileChoosen" .
+   [0 0 0 0 0 0 2 0 0 0 0 0 0])
+  ("g_CurrentFunction" .
+   [0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("path_combine" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("f" .
+   [1])
+  ("istr" .
+   [8 0 0 0])
+  ("free" .
+   [2 0 0 0])
+  ("newDirectory" .
+   [0 0 0 0 0 0 0 0 1 0 0 0])
+  ("N" .
+   [4])
+  ("g_CurrentDirectory" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 0 0 0])
+  ("currentDirectory" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("input" .
+   [4 0 0 0 0])
+  ("split" .
+   [0 0 0 0 1])
+  ("splitted" .
+   [1 0 0 0 0 0 0 0])
+  ("vstring_split" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("continue" .
+   [0 0 0 0 0 0 0 1])
+  ("g_State" .
+   [1 0 0 0 0 0 0])
+  ("state" .
+   [5 0 0 0 0])
+  ("igToggleButton" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("function" .
+   [1 0 0 0 0 0 0 0])
+  ("TEST" .
+   [6 0 0 0])
+  ("vstring_compare" .
+   [6 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("str" .
+   [17 0 0])
+  ("vstring_set" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("element" .
+   [1 0 0 0 0 0 0])
+  ("new_hdr" .
+   [1 0 0 0 0 0 0])
+  ("Functions" .
+   [1 0 0 0 0 0 0 0 0])
+  ("FunctionResult" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Value" .
+   [8 0 0 0 1])
+  ("Condition" .
+   [16 0 0 0 0 0 0 0 0])
+  ("failure" .
+   [1 0 0 0 1 0 0])
+  ("else" .
+   [0 0 0 1])
+  ("list" .
+   [1 0 0 0])
+  ("el" .
+   [3 0])
+  ("TestResults" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("GWARNING" .
+   [0 0 0 4 4 1 0 0])
+  ("new_len" .
+   [1 0 0 0 0 0 0])
+  ("IsInitialized" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("shget" .
+   [3 0 0 0 0])
+  ("Message" .
+   [3 0 0 0 0 0 0])
+  ("__FILE__" .
+   [0 0 0 1 0 0 0 0])
+  ("GERROR" .
+   [12 0 0 1 3 1])
+  ("dst" .
+   [1 0 0])
+  ("string" .
+   [2 0 0 0 0 0])
+  ("temp" .
+   [4 0 0 0])
+  ("right_string_length" .
+   [3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("vstring_length" .
+   [6 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("length" .
+   [7 0 0 0 0 0])
+  ("u32" .
+   [42 0 0])
+  ("i32" .
+   [68 0 0])
+  ("malloc" .
+   [1 0 0 0 0 0])
+  ("src" .
+   [12 0 0])
+  ("g_InterningStrings" .
+   [0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("key" .
+   [24 0 0])
+  ("s" .
+   [7])
+  ("t" .
+   [4])
+  ("istring" .
+   [6 0 0 0 0 0 0])
+  ("native_alloc" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("STACK_ALLACATOR_TEST" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("data4" .
+   [2 0 0 0 0])
+  ("data3" .
+   [3 0 0 0 0])
+  ("data2" .
+   [3 0 0 0 0])
+  ("data1" .
+   [3 0 0 0 0])
+  ("data0" .
+   [3 0 0 0 0])
+  ("sinit" .
+   [1 0 0 0 0])
+  ("f64" .
+   [1 0 0])
+  ("f32" .
+   [3 0 0])
+  ("FreeList" .
+   [1 0 0 0 0 0 0 0])
+  ("Size" .
+   [9 0 0 0])
+  ("g_Stack" .
+   [4 0 0 0 0 0 0])
+  ("size" .
+   [6 0 0 0])
+  ("assert" .
+   [4 0 0 0 0 0])
+  ("../../.." .
+   [1 0 0 0 0 0 0 0])
+  ("Components" .
+   [10 0 0 0 0 0 0 0 0 0])
+  ("u64" .
+   [16 0 0])
+  ("Type" .
+   [7 0 0 0])
+  ("Types" .
+   [2 0 0 0 3])
+  ("world_init" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("world" .
+   [10 0 0 0 0])
+  ("World" .
+   [5 0 0 0 0])
+  ("ECS_REGISTER_COMPONENT" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("defaultCoords" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("vec2" .
+   [2 0 0 0])
+  ("color" .
+   [3 0 0 0 0])
+  ("vec4" .
+   [1 0 0 0])
+  ("texture" .
+   [0 0 1 0 0 0 0])
+  ("Texture2D" .
+   [1 0 0 0 0 0 0 0 0])
+  ("transform" .
+   [2 0 0 0 0 0 0 0 0])
+  ("mat4" .
+   [1 0 0 0])
+  ("renderer_submit_rectangle" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("framebuffer" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("igMenuItemBool" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("igBeginMenu" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("igBeginMenuBar" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("height" .
+   [4 0 0 0 0 0])
+  ("width" .
+   [4 0 0 0 0])
+  ("igGetIO" .
+   [1 0 0 0 0 0 0])
+  ("io" .
+   [2 0])
+  ("ImGuiIO" .
+   [1 0 0 0 0 0 0])
+  ("igEnd" .
+   [1 0 0 0 0])
+  ("p_open" .
+   [1 0 0 0 0 0])
+  ("igBegin" .
+   [1 0 0 0 0 0 0])
+  ("Height" .
+   [2 0 0 0 0 0])
+  ("Framebuffer" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("Width" .
+   [2 0 0 0 0])
+  ("FrameBuffer" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("c" .
+   [3])
+  ("delete-other-windows" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("split-window-right" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("split-window-below" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("delete-window" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("other-window" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("Electric-modes" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("electric-quote-chars" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("electric" .
+   [1 0 0 0 0 0 0 0])
+  ("require" .
+   [1 0 0 0 0 0 0])
+  ("GPU" .
+   [1 0 0])
+  ("opts" .
+   [1 0 0 0])
+  ("include" .
+   [0 0 0 1 0 0 0])
+  ("nil" .
+   [2 0 0])
+  ("Block" .
+   [1 0 0 0 0])
+  ("block" .
+   [4 0 0 0 1])
+  ("block_show" .
+   [0 0 0 0 0 0 1 0 0 0])
+  (":commands" .
+   [1 0 0 0 0 0 0 0 0])
+  (":init" .
+   [1 0 0 0 0])
+  ("setq" .
+   [1 0 0 0])
+  (":config" .
+   [1 0 0 0 0 0 0])
+  ("use-package" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("package-install" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("when" .
+   [1 0 0 0])
+  ("unless" .
+   [1 0 0 0 0 0])
+  ("i8" .
+   [8 0])
+  ("v" .
+   [5])
+  ("force_inline" .
+   [4 0 0 0 0 3 1 0 1 0 0 1])
+  ("Editor" .
+   [1 0 0 0 0 0])
+  ("camera" .
+   [1 0 0 0 0 0])
+  ("OrthoCamera" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("shput" .
+   [3 0 0 0 0])
+  ("g_TestTable" .
+   [0 0 0 0 0 0 2 0 0 0 0])
+  ("file" .
+   [10 0 0 0])
+  ("result" .
+   [6 0 0 0 0 1])
+  ("TestResult" .
+   [4 0 0 0 0 0 0 2 0 1])
+  ("value" .
+   [19 0 0 0 0])
+  ("NULL" .
+   [52 0 0 0])
+  ("i" .
+   [11])
+  ("stdlib" .
+   [1 0 0 0 0 0])
+  ("stdio" .
+   [1 0 0 0 0])
+  ("AllocList" .
+   [2 0 0 0 0 0 0 0 0])
+  ("test" .
+   [1 0 0 0])
+  ("FileName" .
+   [5 0 0 0 0 0 0 0])
+  ("Results" .
+   [3 0 0 0 0 0 0])
+  ("Test" .
+   [1 0 0 0])
+  ("ResultList" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("GLOG" .
+   [3 0 0 0])
+  ("results" .
+   [8 0 0 0 0 0 0])
+  ("FunctionName" .
+   [2 0 0 1 0 0 0 0 1 0 1 0])
+  ("fileNames" .
+   [3 0 0 0 0 0 0 0 0])
+  ("printf" .
+   [5 0 0 0 0 0])
+  ("r" .
+   [2])
+  ("len" .
+   [2 0 0])
+  ("array_len" .
+   [7 0 0 0 0 0 0 0 0])
+  ("filesLen" .
+   [1 0 0 0 0 0 0 0])
+  ("path" .
+   [1 0 0 0])
+  ("data" .
+   [7 0 0 0])
+  ("ptr" .
+   [2 0 0])
+  ("OffsetOf" .
+   [1 0 0 0 0 0 0 0])
+  ("oth" .
+   [1 0 0])
+  ("Dependencies/GLFW/GLFW.project" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("u8" .
+   [3 0])
+  ("velocity" .
+   [1 0 0 0 0 0 0 0])
+  ("gsvec" .
+   [1 0 0 0 0])
+  ("AlignmentOf" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("g_WindowPos" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("g_WindowSize" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("path_test" .
+   [1 0 0 0 0 0 0 0 0])
+  ("array_push" .
+   [7 0 0 0 0 0 0 0 0 0])
+  ("d" .
+   [1])
+  ("count" .
+   [12 0 0 0 0])
+  ("String" .
+   [2 0 0 0 0 0])
+  ("InterningString" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Length" .
+   [1 0 0 0 0 0])
+  ("Memory" .
+   [1 0 0 0 0 1])
+  ("memory" .
+   [1 0 0 0 0 0])
+  ("g_Memory" .
+   [1 0 0 0 0 1 0 0])
+  ("in" .
+   [1 0])
+  ("array_count" .
+   [11 0 0 0 1 0 0 0 0 0 0])
+  ("String_Value" .
+   [2 0 0 0 0 0 0 0 0 0 1 0])
+  ("components" .
+   [6 0 0 0 0 0 0 0 0 0])
+  ("archetype" .
+   [12 0 0 0 0 0 0 0 0])
+  ("Id" .
+   [4 0])
+  ("ComponentType" .
+   [5 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("component" .
+   [2 0 0 0 0 0 0 0 1])
+  ("E" .
+   [1])
+  ("componentName" .
+   [4 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("type" .
+   [3 0 0 0])
+  ("Name" .
+   [3 0 0 0])
+  ("ComponentStorage" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("storage" .
+   [7 0 0 0 0 0 1])
+  ("RegisteredIds" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("id" .
+   [3 0])
+  ("Component" .
+   [2 0 0 0 0 0 0 0 0])
+  ("ComponentTable" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("ComponentAdditional" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("componentId" .
+   [7 0 0 0 0 0 0 0 0 0 0])
+  ("ID" .
+   [1 0])
+  ("name" .
+   [2 0 0 0])
+  ("shgeti" .
+   [1 0 0 0 0 0])
+  ("Storage" .
+   [3 0 0 0 0 0 0])
+  ("NameToId" .
+   [2 0 0 0 0 0 0 0])
+  ("isNameInStorage" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("player" .
+   [1 0 0 0 0 0])
+  ("PositionComponent" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("number" .
+   [2 0 0 0 0 0])
+  ("a" .
+   [6])
+  ("Archetypes" .
+   [3 0 0 0 0 0 0 0 0 1])
+  ("Archetype" .
+   [18 0 0 2 0 1 0 0 13])
+  ("Data" .
+   [5 0 0 0])
+  ("worldPtr" .
+   [2 0 0 0 0 0 0 0])
+  ("componentsId" .
+   [5 0 0 0 0 0 0 0 0 0 0 0])
+  ("isRegistered" .
+   [0 0 0 1 2 0 0 0 0 0 0 0])
+  ("./build_release.sh" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("archetypesStorage" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("ArchetypeRecord" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("archetypeRecord" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("isAdded" .
+   [0 0 0 1 0 0 0])
+  ("comps" .
+   [2 0 0 0 0])
+  ("_ecs_get_component_id_by_name" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("record" .
+   [10 0 0 0 0 0])
+  ("Offset" .
+   [5 0 0 0 0 0])
+  ("A" .
+   [1])
+  ("componentOffset" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("ComponentId" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("memcpy" .
+   [2 0 0 0 0 0])
+  ("componentSize" .
+   [3 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("firstSize" .
+   [1 0 0 0 0 0 0 0 0])
+  ("secondSize" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("first" .
+   [2 0 0 0 0])
+  ("second" .
+   [3 0 0 0 0 0])
+  ("firstCount" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("secondCount" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("secondId" .
+   [1 0 0 0 0 0 0 0])
+  ("firstId" .
+   [1 0 0 0 0 0 0])
+  ("currentEntityOffset" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("NOTE" .
+   [1 0 0 0])
+  ("ids" .
+   [4 0 0])
+  ("IdToSize" .
+   [1 0 0 0 0 0 0 0])
+  ("internal_memory_allocate" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("item" .
+   [7 0 0 0])
+  ("table" .
+   [45 0 0 0 0])
+  ("Items" .
+   [4 0 0 0 0])
+  ("memory_free" .
+   [1 0 0 0 0 0 0 1 0 0 0])
+  ("keyLength" .
+   [6 0 0 0 0 1 0 0 0])
+  ("n" .
+   [2])
+  ("vstring" .
+   [1 0 0 0 0 0 0])
+  ("hash" .
+   [6 0 0 0])
+  ("get_hash" .
+   [0 0 0 0 0 0 0 1])
+  ("PRIME_2" .
+   [1 0 0 0 0 0 0])
+  ("prime" .
+   [3 0 0 0 0])
+  ("_shash_put" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("Capacity" .
+   [2 0 1 1 1 1 0 0])
+  ("PRIME_1" .
+   [2 0 0 0 0 0 0])
+  ("attempt" .
+   [2 0 0 0 2 0 0])
+  ("hashB" .
+   [2 0 0 0 0])
+  ("Key" .
+   [3 0 0])
+  ("ARRAY_H" .
+   [0 0 0 0 0 0 1])
+  ("elementSize" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("indices" .
+   [4 0 0 0 0 0 0])
+  ("HashTableItem" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("__typeof__" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("valueInstance" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("table_count" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("array_capacity" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("table_capacity" .
+   [1 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("Table" .
+   [1 0 0 0 0])
+  ("interning" .
+   [0 0 0 0 0 0 0 1 1])
+  ("num" .
+   [1 0 0])
+  ("someArray" .
+   [0 0 0 0 1 1 0 0 0])
+  ("TestType0" .
+   [0 0 0 0 0 1 0 0 0])
+  ("itemsKey" .
+   [2 0 0 0 0 1 0 1])
+  ("hash_get" .
+   [3 0 0 0 0 0 0 0])
+  ("shash_geti" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("return_label" .
+   [2 0 0 0 0 0 0 0 0 0 0 0])
+  ("return_label_2" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("vstring_compare_length" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("defValue" .
+   [0 0 0 0 0 1 0 0])
+  ("capacity" .
+   [1 0 0 0 0 0 0 0])
+  ("string_builder_count" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("scount" .
+   [1 0 0 0 0 0])
+  ("scapacity" .
+   [1 0 0 1 0 0 0 0 0])
+  ("prevCapacity" .
+   [0 0 0 0 0 0 0 0 2 0 0 0])
+  ("prevCount" .
+   [1 0 0 0 0 0 0 0 0])
+  ("strLength" .
+   [1 0 0 0 0 0 1 0 0])
+  ("string_builder_appendc" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])))
